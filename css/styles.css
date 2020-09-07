@@ -20,8 +20,15 @@
     padding: 70px 30px 70px 30px;
     margin: 0px auto;
     background-color: #9597cd !important;
-    color: floralwhite;
+    color: floralwhite
 }
+    .jumbotron .btn-lg{
+        margin-top: 40px;
+    }
+    .jumbotron .col-sm-4{
+        margin-left: 50px;
+    }
+
 
 .address{
     font-size: 80%;
